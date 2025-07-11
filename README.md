@@ -66,7 +66,9 @@ var guid = Guid.NewGuid();
 
 string enc = enigma.Encrypt(guid, "ArcPower42!");
 string dec = enigma.Decrypt(guid, enc);
+
 ###🧬 Legacy
+
 This project is not about encryption strength — it’s about learning, evolution, and creative experimentation. From the dim-lit labs of Brisbane to modern C# systems, the Enigma series reflects one mind’s ongoing love of code, systems, and secrets.
 
 ### 🖋 Author
