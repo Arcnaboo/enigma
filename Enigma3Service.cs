@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Numerics;
 
-namespace ArcCorpBackend.Services
+namespace EnigmaApp.Services
 {
     public class Enigma3Service
     {
